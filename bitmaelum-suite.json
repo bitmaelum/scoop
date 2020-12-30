@@ -1,16 +1,16 @@
 {
-    "version": "0.0.11",
+    "version": "0.0.19",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bitmaelum/bitmaelum-suite/releases/download/v0.0.11/bitmaelum-suite_0.0.11_windows_x86_64.tar.gz",
+            "url": "https://github.com/bitmaelum/bitmaelum-suite/releases/download/v0.0.19/bitmaelum-suite_0.0.19_windows_x86_64.tar.gz",
             "bin": [
-                "bm-client.exe",
-                "bm-config.exe",
-                "bm-json.exe",
-                "bm-send.exe",
-                "bm-server.exe"
+                "bitmaelum-suite_0.0.19_windows_x86_64/bm-client.exe",
+                "bitmaelum-suite_0.0.19_windows_x86_64/bm-config.exe",
+                "bitmaelum-suite_0.0.19_windows_x86_64/bm-json.exe",
+                "bitmaelum-suite_0.0.19_windows_x86_64/bm-send.exe",
+                "bitmaelum-suite_0.0.19_windows_x86_64/bm-server.exe"
             ],
-            "hash": "282d068714373d8506ec24705edf929f3d60f2b9d52d6af0f4e2614a7009417b"
+            "hash": "fede9a9a1d2fea9016525544729cd10dc93bca2630ac2434d1c11cabafba66aa"
         }
     },
     "homepage": "https://bitmaelum.com/",
