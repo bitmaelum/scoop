@@ -1,8 +1,8 @@
 {
-    "version": "0.0.21",
+    "version": "0.0.22",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bitmaelum/bitmaelum-suite/releases/download/v0.0.21/bitmaelum-suite_0.0.21_windows_64bit.zip",
+            "url": "https://github.com/bitmaelum/bitmaelum-suite/releases/download/v0.0.22/bitmaelum-suite_0.0.22_windows_64bit.zip",
             "bin": [
                 "bm-client.exe",
                 "bm-config.exe",
@@ -10,7 +10,7 @@
                 "bm-send.exe",
                 "bm-server.exe"
             ],
-            "hash": "72da8a4404828660657598996c549347aa86cebce4111679ecf7fcee0b0a19ed"
+            "hash": "ad052d4a8054172d6253f5c942340bed8c0c947522c55de9c064a775973e4f86"
         }
     },
     "homepage": "https://bitmaelum.com/",
