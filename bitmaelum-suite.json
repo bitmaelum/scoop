@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bitmaelum/bitmaelum-suite/releases/download/v0.0.1/bitmaelum-suite_0.0.1_windows_64bit.zip",
+            "bin": [
+                "bm-client.exe",
+                "bm-config.exe",
+                "bm-json.exe",
+                "bm-send.exe",
+                "bm-server.exe"
+            ],
+            "hash": "1af9017c405976b38403bc3247ac71a0e5a4c77bbf46a1fa1ba0d8416b959f44"
+        }
+    },
+    "homepage": "https://bitmaelum.com/",
+    "license": "MIT",
+    "description": "An end-to-end mail system"
+}
